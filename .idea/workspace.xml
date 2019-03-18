@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/get_text/core/decomposes.py" line="71" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efa7faf9-6cca-4e7d-bd5c-cf9704773305" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_get_text_TestGetText_test_1tv.coverage" NAME="Unittests for test_get_text.TestGetText.test_1tv Coverage Results" MODIFIED="1552928043589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_get_text_TestGetText_test_lenta_ru_2.coverage" NAME="Unittests for test_get_text.TestGetText.test_lenta_ru_2 Coverage Results" MODIFIED="1552928050427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_url_convertor_to_path_TestUrlConvertToPath_test_url_with_type_web_page_file.coverage" NAME="Unittests for test_url_convertor_to_path.TestUrlConvertToPath.test_url_with_type_web_page_file Coverage Results" MODIFIED="1552858113346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_url_convertor_to_path_TestUrlConvertToPath_test_url_with_type_web_page_file_txt.coverage" NAME="Unittests for test_url_convertor_to_path.TestUrlConvertToPath.test_url_with_type_web_page_file_txt Coverage Results" MODIFIED="1552858733262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_get_text_TestGetText_test_habr_com.coverage" NAME="Unittests for test_get_text.TestGetText.test_habr_com Coverage Results" MODIFIED="1552928116603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Run.coverage" NAME="Run Coverage Results" MODIFIED="1552935110176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/get_text$Build_project.coverage" NAME="Build project Coverage Results" MODIFIED="1552927295813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_get_text_TestGetText_test_lenta_ru.coverage" NAME="Unittests for test_get_text.TestGetText.test_lenta_ru Coverage Results" MODIFIED="1552928047100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$get_article.coverage" NAME="get_article Coverage Results" MODIFIED="1552841789095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/get_text/core" />
+    <SUITE FILE_PATH="coverage/get_text$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1552687808415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/get_text/core" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_get_text_TestGetText_test_iz_ru.coverage" NAME="Unittests for test_get_text.TestGetText.test_iz_ru Coverage Results" MODIFIED="1552928028035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_url_convertor_to_path_TestUrlConvertToPath.coverage" NAME="Unittests for test_url_convertor_to_path.TestUrlConvertToPath Coverage Results" MODIFIED="1552934895461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_get_text_TestGetText.coverage" NAME="Unittests for test_get_text.TestGetText Coverage Results" MODIFIED="1552935404657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/get_text$Unittests_for_test_get_text_TestGetText_test_000_something.coverage" NAME="Unittests for test_get_text.TestGetText.test_000_something Coverage Results" MODIFIED="1552915168960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>def sele</find>
+      <find>se</find>
+      <find>test</find>
+      <find>, article</find>
+      <find>та картина очень симв</find>
+      <find>alizar</find>
+      <find>class=&quot;post__tim</find>
+      <find>published</find>
+      <find>b-topic__</find>
+      <find>title</find>
+      <find>config.get_width</find>
+      <find>header$</find>
+      <find>print</find>
+      <find>text_loader_with_web_pages</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>get_text</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/get_text</dir>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MANIFEST.in" />
+        <option value="$PROJECT_DIR$/requirements_dev.txt" />
+        <option value="$PROJECT_DIR$/wrap_text.py" />
+        <option value="$PROJECT_DIR$/get_text/core/news.txt" />
+        <option value="$PROJECT_DIR$/config.yaml" />
+        <option value="$PROJECT_DIR$/get_text/core/__init__.py" />
+        <option value="$PROJECT_DIR$/get_text/helper/click_custom_classes.py" />
+        <option value="$PROJECT_DIR$/get_text/text_get_text.py" />
+        <option value="$PROJECT_DIR$/get_text/core/context.py" />
+        <option value="$PROJECT_DIR$/get_text/core/config.py" />
+        <option value="$PROJECT_DIR$/news.txt" />
+        <option value="$PROJECT_DIR$/get_text/news.txt" />
+        <option value="$PROJECT_DIR$/tests/test_url_convertor_to_path.py" />
+        <option value="$PROJECT_DIR$/build/lib/get_text/core/get_article.py" />
+        <option value="$PROJECT_DIR$/example/habr.com/ru/post/444134.txt" />
+        <option value="$PROJECT_DIR$/get_text/helper/text.py" />
+        <option value="$PROJECT_DIR$/example/www.1tv.ru/news/2019-03-16/362045-v_novoy_zelandii_skorbyat_po_zhertvam_teraktov_v_gorode_kraystcherch.txt" />
+        <option value="$PROJECT_DIR$/get_text/core/config/_template.py" />
+        <option value="$PROJECT_DIR$/example/iz.ru/857637/2019-03-18/putin-dal-start-rabote-balaklavskoi-i-tavricheskoi-tes-v-krymu.txt" />
+        <option value="$PROJECT_DIR$/tests/fixture/lenta.ru/watch_bird.txt" />
+        <option value="$PROJECT_DIR$/tests/fixture/lenta.ru_2/nine_minutes.txt" />
+        <option value="$PROJECT_DIR$/tests/fixture/www.1tv.ru/362045-v_novoy_zelandii_skorbyat_po_zhertvam_teraktov_v_gorode_kraystcherch.txt" />
+        <option value="$PROJECT_DIR$/example/lenta.ru/news/2017/10/26/watch_bird.txt" />
+        <option value="$PROJECT_DIR$/example/template.jg" />
+        <option value="$PROJECT_DIR$/tests/fixture/iz.ru/putin-dal-start-rabote-balaklavskoi-i-tavricheskoi-tes-v-krymu.txt" />
+        <option value="$PROJECT_DIR$/tests/fixture/habr.com/444134.html" />
+        <option value="$PROJECT_DIR$/get_text/core/config/__init__.py" />
+        <option value="$PROJECT_DIR$/get_text/core/config/template.py" />
+        <option value="$PROJECT_DIR$/tests/test_get_text.py" />
+        <option value="$PROJECT_DIR$/get_text/core/get_article.py" />
+        <option value="$PROJECT_DIR$/get_text/__init__.py" />
+        <option value="$PROJECT_DIR$/get_text/helper/settings.py" />
+        <option value="$PROJECT_DIR$/get_text/helper/url_convertor.py" />
+        <option value="$PROJECT_DIR$/get_text/cli.py" />
+        <option value="$PROJECT_DIR$/get_text/core/decomposes.py" />
+        <option value="$PROJECT_DIR$/get_text/core/config/config.py" />
+        <option value="$PROJECT_DIR$/tests/fixture/habr.com/444134.txt" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/docs/index.rst" />
+        <option value="$PROJECT_DIR$/README.rst" />
+        <option value="$PROJECT_DIR$/HISTORY.rst" />
+        <option value="$PROJECT_DIR$/docs/installation.rst" />
+        <option value="$PROJECT_DIR$/example/setting.yaml" />
+        <option value="$PROJECT_DIR$/docs/usage.rst" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="-4" />
+    <option name="width" value="1883" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="get_text" type="b2602c69:ProjectViewProjectNode" />
+              <item name="get_text" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="get_text" type="b2602c69:ProjectViewProjectNode" />
+              <item name="get_text" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/fixture/lenta.ru_2" />
+      <recent name="$PROJECT_DIR$/tests/fixture/iz.ru" />
+      <recent name="$PROJECT_DIR$/example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/fixture/iz.ru" />
+      <recent name="$PROJECT_DIR$/tests/fixture/habr.com" />
+      <recent name="$PROJECT_DIR$/tests/fixture/lenta.ru" />
+      <recent name="$PROJECT_DIR$/tests/fixture/lenta.ru_2" />
+      <recent name="$PROJECT_DIR$/tests/fixture/www.1tv.ru" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_get_text.TestGetText">
+    <configuration name="Build project" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <module name="get_text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.venv/Tensor-Test-Question/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="install" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run" type="PythonConfigurationType" factoryName="Python">
+      <module name="get_text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.venv/Tensor-Test-Question/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="get_text.cli" />
+      <option name="PARAMETERS" value="https://lenta.ru/articles/2019/02/21/sams/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_get_text.TestGetText" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="get_text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_get_text.TestGetText&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Run" />
+      <item itemvalue="Python.Build project" />
+      <item itemvalue="Python tests.Unittests for test_get_text.TestGetText" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_get_text.TestGetText" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa7faf9-6cca-4e7d-bd5c-cf9704773305" name="Default Changelist" comment="" />
+      <created>1552682733768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552682733768</updated>
+      <workItem from="1552682734912" duration="5072000" />
+      <workItem from="1552755676609" duration="30732000" />
+      <workItem from="1552906503542" duration="27049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 32m 08s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 35m 23s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 36m 27s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 36m 31s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 36m 33s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 36m 50s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_url_convertor_to_path_TestUrlConvertToPath - 2019.03.19 at 01h 48m 15s.xml">
+      <configuration name="Unittests for test_url_convertor_to_path.TestUrlConvertToPath" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 48m 25s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 56m 09s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_text_TestGetText - 2019.03.19 at 01h 56m 50s.xml">
+      <configuration name="Unittests for test_get_text.TestGetText" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62853000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558164" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32869378" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" visible="true" weight="0.254818" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28800857" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
+      <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.4996957" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32937366" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" x="585" y="253" width="1024" height="744" id="Terminal" order="10" sideWeight="0.49843457" weight="0.40792292" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.28907922" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010672" side_tool="true" weight="0.42719486" />
+      <window_info anchor="right" x="0" y="0" width="361" height="862" id="Documentation" order="0" side_tool="true" weight="0.32999372" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="4" weight="0.32999372" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32999372" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32999372" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_text/core/decomposes.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>soup.select('h1')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>title_selector</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>soup.select(title_selector)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>soup.findAll(['h1'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>titles</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>titles[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>get_title</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>soup.select('div&gt;div')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>soup.select('div.main')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example/habr.com/ru/post/444134.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.venv/Tensor-Test-Question/lib/python3.6/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.venv/Tensor-Test-Question/lib/python3.6/site-packages/get_text-0.1.0-py3.6.egg/get_text/cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.venv/Tensor-Test-Question/lib/python3.6/site-packages/get_text-0.1.0-py3.6.egg/get_text/core/get_article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/template.jg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="43" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lenta.ru/news/2017/10/26/watch_bird.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/iz.ru/857637/2019-03-18/putin-dal-start-rabote-balaklavskoi-i-tavricheskoi-tes-v-krymu.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="36" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/iz.ru/putin-dal-start-rabote-balaklavskoi-i-tavricheskoi-tes-v-krymu.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.venv/Tensor-Test-Question/lib/python3.6/site-packages/click/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-749">
+          <caret line="166" column="59" selection-start-line="166" selection-start-column="54" selection-end-line="166" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.venv/Tensor-Test-Question/lib/python3.6/site-packages/get_text-0.1.0-py3.6.egg/get_text/helper/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.venv/Tensor-Test-Question/lib/python3.6/site-packages/get_text-0.1.0-py3.6.egg/get_text/core/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/habr.com/444134.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="11992" selection-start-line="11992" selection-end-line="11992" />
+          <folding>
+            <element signature="e#11833#14052#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/get_text/core/get_article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/core/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#2#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/core/config/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/core/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/core/get_article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/news.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/text_get_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#43#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/helper/click_custom_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/helper/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/helper/url_convertor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/helper/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/helper/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#60#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_url_convertor_to_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.venv/Tensor-Test-Question/lib/python3.6/site-packages/get_text-0.1.0-py3.6.egg/get_text/core/decomposes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/core/decomposes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="67" column="61" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
+          <folding>
+            <element signature="e#52#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_get_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#83#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/habr.com/444134.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/iz.ru/putin-dal-start-rabote-balaklavskoi-i-tavricheskoi-tes-v-krymu.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/lenta.ru/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/lenta.ru/watch_bird.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/lenta.ru_2/nine_minutes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fixture/www.1tv.ru/362045-v_novoy_zelandii_skorbyat_po_zhertvam_teraktov_v_gorode_kraystcherch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/www.telegraph.co.uk/news/2019/03/18/utrecht-shooting-several-injured-shooting-utrecht-tram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/contributing.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/history.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HISTORY.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/readme.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/make.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/installation.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/usage.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_text/core/config/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="66" column="10" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="66" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/setting.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

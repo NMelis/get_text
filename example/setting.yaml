@@ -1,0 +1,11 @@
+width: 100
+show_link: false
+template: |
+    {{ news_title }}
+
+    {% for _ in range(0, config['width']) %}-{% endfor %}
+
+    {{ news_content }}
+
+    {% for _ in range(0, config['width']) %}-{% endfor %}
+
